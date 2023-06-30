@@ -10,6 +10,7 @@
     "lite-server": "^2.6.1"
   },
   "scripts": {
+    "npm": "start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

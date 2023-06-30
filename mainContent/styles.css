@@ -31,3 +31,11 @@ li a:hover:not(.active) {
     background-color: rgb(73, 118, 158);
     color: rgb(0, 183, 255);
 }
+
+img {
+    border-radius: 50%;
+    max-width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
